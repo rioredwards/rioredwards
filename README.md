@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rio
 - 👀 I’m interested in Coding, Art, Music, Fun and Cool Things!
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on idk yet
-- 📫 How to reach me: Hit my line
+- 🌱 I’m currently learning to code at [@Alchemy-Code-Lab](https://www.alchemycodelab.com/)
+- 💞️ I’m looking to collaborate on any project!
+- 📫 How to reach me: rioredwards@gmail.com
 
 <!---
 rioredwards/rioredwards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
