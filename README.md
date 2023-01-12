@@ -8,3 +8,5 @@
 rioredwards/rioredwards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/rioredwards/rioredwards/blob/main/Swimmy_Nudibranch.gif))
