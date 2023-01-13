@@ -9,8 +9,8 @@ I'm a full-stack developer with a passion for building elegant, responsive, and 
 - 🛠️ Tools: VS Code • Git / GitHub • Figma
 - 👨‍💻 Dev-Practices: TDD • Pair / Mob Programming
 
-Email: rioredwards@gmail.com
-LinkedIn: linkedin.com/in/rio-edwards
+- Email: rioredwards@gmail.com
+- LinkedIn: linkedin.com/in/rio-edwards
 
 <!---
 rioredwards/rioredwards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
