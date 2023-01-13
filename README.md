@@ -1,8 +1,16 @@
-- 👋 Hi, I’m Rio
-- 👀 I’m interested in Coding, Art, Music, Fun and Cool Things!
-- 🌱 I’m currently learning to code at [@Alchemy-Code-Lab](https://www.alchemycodelab.com/)
-- 💞️ I’m looking to collaborate on any project!
-- 📫 How to reach me: rioredwards@gmail.com
+Hello, my name is Rio. 👋
+
+I'm a full-stack developer with a passion for building elegant, responsive, and accessible web apps. I thrive in an environment that values my critical thinking, creativity, and technical skills. I have a passion for learning new skills and enjoy working independently or as part of a team.
+
+📝 Languages: JavaScript • HTML • CSS • C++ • SQL
+📚 Libraries/Frameworks: React.js • Node.js • Express.js
+🧪 Testing: Jest • Supertest
+🗄️ Databases: Supabase • PostgreSQL
+🛠️ Tools: VS Code • Git / GitHub • Figma
+👨‍💻 Dev-Practices: TDD • Pair / Mob Programming
+
+Email: rioredwards@gmail.com
+LinkedIn: linkedin.com/in/rio-edwards
 
 <!---
 rioredwards/rioredwards is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
