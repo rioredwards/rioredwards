@@ -17,4 +17,4 @@ rioredwards/rioredwards is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://github.com/rioredwards/rioredwards/blob/main/Swimmy_Nudibranch.gif)
+![](https://github.com/rioredwards/rioredwards/blob/main/assets/Swimmy_Nudibranch.gif)
