@@ -53,7 +53,7 @@ A multiplayer, real-time drawing game inspired by the popular board game, Pictio
 
 ## Contact Me
 
-```Open for collaborations! Send me your ideas > 📩```
+```Open for collaborations! Send me your ideas 📩```
 
 [Email](rioredwards@gmail.com)  
 [LinkedIn](linkedin.com/in/rio-edwards)
