@@ -1,5 +1,7 @@
 # Hello, my name is Rio. 👋
 
+```(Open for collaborations! Send me your ideas!)```
+
 I'm a full-stack developer with a passion for building elegant, responsive, and accessible web apps. I thrive in an environment where my critical thinking, creativity, and technical skills are valued. I am always seeking new opportunities to learn and grow as a developer, whether that means working independently or as part of a team. I care deeply for humanity and strive to have a positive impact on those around me. <br> <br>
 
 ## My Toolkit
