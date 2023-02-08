@@ -2,9 +2,14 @@
 
 I'm a full-stack developer with a passion for building elegant, responsive, and accessible web apps. I thrive in an environment where my creativity and technical skills are valued. I am always seeking new opportunities to learn and grow as a developer, whether that means working independently or as part of a team. I care deeply for humanity and strive to have a positive impact on those around me. <br>
 
+
 ---
 
-## My Toolkit
+<details>
+
+<summary><h2>My Toolkit</h2></summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioredwards&layout=compact&theme=radical)](https://github.com/rioredwards/github-readme-stats)
 
 |                                        Languages                                         |                                                  Libraries/Frameworks                                                  |                                          Testing                                          |                                                 Databases                                                  |                                           Tools                                           |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
@@ -14,10 +19,13 @@ I'm a full-stack developer with a passion for building elegant, responsive, and 
 | <img src="assets/Logos/C++_Logos/ISO_C++_Logo.svg (2).png" alt="JavaScript" width="24"/> |                                                                                                                        |                                                                                           |                                                                                                            | <img src="assets/Logos/GitHub_Logos/github-mark-white.png" alt="JavaScript" width="24"/>  |
 |    <img src="assets/Logos/SQL_Icons/icons8-sql-96.png" alt="JavaScript" width="24"/>     |                                                                                                                        |                                                                                           |                                                                                                            |     <img src="assets/Logos/Figma-Logos/Figma-Icon.svg" alt="JavaScript" width="16"/>      |
 
-
+</details>
+ 
 ---
 
-## Recent Projects
+<details>
+
+ <summary><h2>Recent Projects</h2></summary>
 
 ### <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="JavaScript" width="16"/> Swimmy Nudibranch <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="JavaScript" width="16"/>
 
@@ -48,7 +56,9 @@ A multiplayer, real-time drawing game inspired by the popular board game, Pictio
 
 [Play](https://moody-pictionary.netlify.app/) • [GitHub](https://github.com/themoodymarsupials/pictionary)
 
----
+</details>
+ 
+ ---
 
 ## Contact Me
 
