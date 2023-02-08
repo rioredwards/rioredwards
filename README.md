@@ -9,7 +9,6 @@ I'm a full-stack developer with a passion for building elegant, responsive, and 
 
 <summary><h2>My Toolkit</h2></summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rioredwards&layout=compact&theme=radical)](https://github.com/rioredwards/github-readme-stats)
 
 |                                        Languages                                         |                                                  Libraries/Frameworks                                                  |                                          Testing                                          |                                                 Databases                                                  |                                           Tools                                           |
 | :--------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------: |
