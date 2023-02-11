@@ -37,7 +37,7 @@ An aquatic spin on the (in)famous iPhone game: "Flappy Bird". I built this with 
 <img src="assets/Error_Affirmations_Images/notificationbar.png" alt="JavaScript" width="420"/><br/>
 <img src="assets/Error_Affirmations_Images/Jest_Example_Default.png" alt="JavaScript" width="420"/>
 
-A full-stack app that provides a RESTful API for delivering code-related affirmations to developers. The application includes 3 UI's: a VSCode Extension, a Jest Reporter and a website.
+A full-stack app that provides an API for delivering code-related affirmations to developers. The application includes 3 UI's: a VSCode Extension, a Jest Reporter and a website.
 
 [VS Code Extension](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations) • [Jest Reporter](https://www.npmjs.com/package/error-affirmations) • [Website](https://error-affirmations.netlify.app/) • [GitHub](https://github.com/orgs/VSCode-Empaths/repositories)
 
