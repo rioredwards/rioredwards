@@ -81,7 +81,7 @@ A multiplayer, real-time drawing game inspired by the popular board game, Pictio
 
 <center>
 
-## Contact Me
+# Contact Me
 
 `Open for collaborations! Send me your ideas 📩`
 
