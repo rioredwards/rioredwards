@@ -1,3 +1,5 @@
+![Plants Banner](assets/Github_Banner_Plants.jpg)
+
 # 👋 Hello, my name is Rio.
 
 I'm a full-stack developer with a passion for building elegant, responsive, and accessible web apps. I thrive in an environment where my creativity and technical skills are valued. I am always seeking new opportunities to learn and grow as a developer, whether that means working independently or as part of a team. I care deeply for humanity and strive to have a positive impact on those around me. <br>
