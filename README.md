@@ -1,6 +1,6 @@
 <center>
 
-![Plants Banner](assets/Github_Banner_Plants.jpg)
+[![Plants Banner](assets/Github_Banner_Plants.jpg)](https://www.linkedin.com/in/rio-edwards/)
 
 </center>
 
