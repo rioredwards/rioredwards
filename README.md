@@ -1,32 +1,23 @@
-<center>
-
 [![Plants Banner](assets/Github_Banner_Plants.jpg)](https://www.linkedin.com/in/rio-edwards/)
 
-</center>
-
-<h1 style="text-align: center;">👋 Hello, my name is Rio.</h1>
+# 👋 Hello, my name is Rio
 
 I'm a full-stack developer with a passion for building elegant, responsive, and accessible web apps. I thrive in an environment where my creativity and technical skills are valued. I am always seeking new opportunities to learn and grow as a developer, whether that means working independently or as part of a team. I care deeply for humanity and strive to have a positive impact on those around me. <br>
 
 ---
 
-<h1 style="text-align: center;">🛠️ My Toolkit</h1>
+## 🛠️ My Toolkit
 
-<center>
+|                        Languages                         |                 Libraries & Frameworks                 |                                  Testing                                   |                        Databases                         |                       Cloud                        |                    Other Tools                     |
+| :------------------------------------------------------: | :----------------------------------------------------: | :------------------------------------------------------------------------: | :------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
+| ![JavaScript](assets/Logos/resize_3/JavaScript_Logo.png) |   ![React.js](assets/Logos/resize_3/React_Logo.png)    |                ![Jest](assets/Logos/resize_3/Jest_Logo.png)                | ![PostgreSQL](assets/Logos/resize_3/PostgreSQL_Logo.png) |  ![Heroku](assets/Logos/resize_3/Heroku_Logo.png)  |  ![VSCode](assets/Logos/resize_3/vscode_Logo.png)  |
+| ![Typescript](assets/Logos/resize_3/Typescript_Logo.png) |   ![Node.js](assets/Logos/resize_3/nodejs_Logo.png)    | ![react-testing-library](assets/Logos/resize_3/React-Testing_Lib_Logo.png) |    ![MongoDB](assets/Logos/resize_3/MongoDB_Logo.png)    | ![Netlify](assets/Logos/resize_3/Netlify-logo.png) |   ![Vim](assets/Logos/resize_3/vim_on_fire.gif)    |
+|      ![HTML5](assets/Logos/resize_3/HTML5_Logo.png)      | ![Express.js](assets/Logos/resize_3/express_Logo.png)  |                                                                            |   ![Supabase](assets/Logos/resize_3/Supabase_Logo.png)   | ![Netlify](assets/Logos/resize_3/Vercel_Logo.png)  |     ![Git](assets/Logos/resize_3/Git_Logo.png)     |
+|       ![CSS3](assets/Logos/resize_3/CSS_Logo.png)        |   ![Next.js](assets/Logos/resize_3/nextjs_Logo.webp)   |                                                                            |                                                          |                                                    | ![Postman](assets/Logos/resize_3/Postman_Logo.png) |
+|        ![C++](assets/Logos/resize_3/C++_Logo.png)        | ![Bootstrap](assets/Logos/resize_3/Bootstrap_Logo.png) |                                                                            |                                                          |                                                    |   ![Figma](assets/Logos/resize_3/Figma_Logo.png)   |
+|        ![SQL](assets/Logos/resize_3/SQL_Logo.png)        |                                                        |                                                                            |                                                          |                                                    |  ![Notion](assets/Logos/resize_3/Notion_Logo.png)  |
 
-|                                 Languages                                 |                          Libraries/Frameworks                           |                                           Testing                                           |                                 Databases                                 |                                Tools                                |
-| :-----------------------------------------------------------------------: | :---------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-----------------------------------------------------------------: |
-| <img src="assets/Logos/JavaScript_Logo.png" alt="JavaScript" width="34"/> |   <img src="assets/Logos/React_Logo.svg" alt="React.js" width="34"/>    |                <img src="assets/Logos/Jest_Logo.svg" alt="Jest" width="28"/>                | <img src="assets/Logos/PostgreSQL_Logo.png" alt="PostgreSQL" width="34"/> |  <img src="assets/Logos/vscode_Logo.svg" alt="VSCode" width="34"/>  |
-|      <img src="assets/Logos/HTML5_Logo.svg" alt="HTML5" width="34"/>      |   <img src="assets/Logos/nodejs_Logo.svg" alt="Node.js" width="34"/>    | <img src="assets/Logos/React-Testing_Lib_Logo.png" alt="react-testing-library" width="34"/> |    <img src="assets/Logos/MongoDB_Logo.svg" alt="MongoDB" width="16"/>    |   <img src="assets/Logos/vim_on_fire.gif" alt="Vim" width="26"/>    |
-|       <img src="assets/Logos/CSS_Logo.svg" alt="CSS3" width="34"/>        | <img src="assets/Logos/express_Logo.png" alt="Express.js" width="34"/>  |                                                                                             |   <img src="assets/Logos/Supabase_Logo.svg" alt="Supabase" width="34"/>   |     <img src="assets/Logos/Git_Logo.svg" alt="Git" width="34"/>     |
-|        <img src="assets/Logos/C++_Logo.svg" alt="C++" width="34"/>        |   <img src="assets/Logos/nextjs_Logo.webp" alt="Next.js" width="34"/>   |                                                                                             |                                                                           | <img src="assets/Logos/Postman_Logo.svg" alt="Postman" width="34"/> |
-|        <img src="assets/Logos/SQL_Logo.png" alt="SQL" width="34"/>        | <img src="assets/Logos/Bootstrap_Logo.svg" alt="Bootstrap" width="34"/> |                                                                                             |                                                                           |   <img src="assets/Logos/Figma-Logo.svg" alt="Figma" width="20"/>   |
-
-</center>
-
----
-
-<h1 style="text-align: center; margin-bottom: 16px;"> 👨‍💻 Recent Projects</h1>
+## 👨‍💻 Recent Projects
 
 <details>
  
