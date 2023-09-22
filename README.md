@@ -21,6 +21,22 @@ I'm a full-stack developer with a passion for building elegant, responsive, and 
 
 <details>
  
+ <summary style="display: flex; height: 34px; align-content: center; justify-content: center; margin-bottom: 16px;"> <img src="assets/Code_Quest/logo.png" alt="Code_Quest" style="width: 21.53px; height: 16px; margin: auto 0;"/>&nbsp;  <h3 style="text-align: center; cursor: pointer;"> Code Quest </h3>&nbsp;  <img src="assets/Code_Quest/logo.png" alt="Code_Quest" style="width: 21.53px; height: 16px; margin: auto 0;"/></summary>
+
+<center>
+
+<img src="assets/Code_Quest/animation.gif" alt="preview" width="640"/>
+
+</center>
+
+Level-Up your code with Code Quest! This immersive web app generates pseudo-random coding challenges, giving you the opportunity to learn practical coding skills in a fun and engaging way.
+
+[Play](https://code-quest-app.netlify.app/) • [GitHub](https://github.com/rioredwards/code-quest)
+
+ </details>
+
+<details>
+ 
  <summary style="display: flex; height: 34px; align-content: center; justify-content: center; margin-bottom: 16px;"> <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/>&nbsp;  <h3 style="text-align: center; cursor: pointer;"> Swimmy Nudibranch </h3>&nbsp;  <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
 
 <center>
