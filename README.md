@@ -19,9 +19,7 @@ I'm a full-stack developer with a passion for building elegant, responsive, and 
 
 ## 👨‍💻 Recent Projects
 
-<details>
- 
- <summary> &nbsp; Code Quest &nbsp;  <img src="assets/Code_Quest/logo.png" alt="Code_Quest" style="width: 21.53px; height: 16px;"/></summary>
+<details><summary> &nbsp; Code Quest &nbsp;  <img src="assets/Code_Quest/logo.png" alt="Code_Quest" style="width: 21.53px; height: 16px;"/></summary>
 
 <center>
 
@@ -35,9 +33,7 @@ Level up your code with Code Quest! This immersive web app generates pseudo-rand
 
  </details>
 
- <details>
- 
- <summary style="display: flex; height: 34px; align-content: center; justify-content: center; margin-bottom: 16px;"> <img src="assets/J-Scribe/logo.png" alt="J-Scribe" style="width: 16px; height: 16px; margin: auto 0;"/>&nbsp;  <h3 style="text-align: center; cursor: pointer;"> j-scribe </h3>&nbsp;  <img src="assets/J-Scribe/logo.png" alt="J-Scribe" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
+ <details><summary>&nbsp;  j-scribe &nbsp;  <img src="assets/J-Scribe/logo.png" alt="J-Scribe" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
 
 <center>
 
@@ -51,9 +47,7 @@ Your All-in-One JavaScript Sandbox and Notebook. j-scribe provides users with a 
 
  </details>
 
-<details>
- 
- <summary style="display: flex; height: 34px; align-content: center; justify-content: center; margin-bottom: 16px;"> <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/>&nbsp;  <h3 style="text-align: center; cursor: pointer;"> Swimmy Nudibranch </h3>&nbsp;  <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
+<details><summary>&nbsp;  Swimmy Nudibranch &nbsp;  <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
 
 <center>
 
@@ -67,9 +61,7 @@ An aquatic spin on the (in)famous iPhone game: "Flappy Bird". I built this with 
 
  </details>
  
- <details>
- 
- <summary style="display: flex; height: 24px; align-content: center; justify-content: center; margin-bottom: 16px"> <img src="assets/Error_Affirmations_Images/pink-02 2 (1).png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/>&nbsp;  <h3  style="text-align: center; cursor: pointer;">Error Affirmations</h3>&nbsp;  <img src="assets/Error_Affirmations_Images/pink-02 2 (1).png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
+<details><summary>&nbsp;Error Affirmations&nbsp;  <img src="assets/Error_Affirmations_Images/pink-02 2 (1).png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
 
 <center>
 
@@ -84,9 +76,7 @@ A full-stack app that provides an API for delivering code-related affirmations t
 
   </details>
 
-<details>
- 
- <summary style="display: flex; height: 24px; align-content: center; justify-content: center; margin-bottom: 16px;"> <img src="assets/Pictionary_Images/favicon.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/>&nbsp;  <h3 style="text-align: center; cursor: pointer;"> Pictionary </h3>&nbsp;  <img src="assets/Pictionary_Images/favicon.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
+<details><summary>&nbsp; Pictionary &nbsp;  <img src="assets/Pictionary_Images/favicon.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
  
  <center>
 
