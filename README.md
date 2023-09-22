@@ -29,7 +29,7 @@ I'm a full-stack developer with a passion for building elegant, responsive, and 
 
 Level up your code with Code Quest! This immersive web app generates pseudo-random coding challenges, giving you the opportunity to learn practical coding skills in a fun and engaging way.
 
-[Try](https://j-scribe.vercel.app/) • [GitHub](https://github.com/rioredwards/j-scribe)
+[Play](https://code-quest-app.netlify.app/) • [GitHub](https://github.com/rioredwards/code-quest)
 
  </details>
 
@@ -43,7 +43,7 @@ Level up your code with Code Quest! This immersive web app generates pseudo-rand
 
 Your All-in-One JavaScript Sandbox and Notebook. j-scribe provides users with a versatile platform to create, share, and modify code snippets in real-time.
 
-[Play](https://code-quest-app.netlify.app/) • [GitHub](https://github.com/rioredwards/code-quest)
+[Try](https://j-scribe.vercel.app/) • [GitHub](https://github.com/rioredwards/j-scribe)
 
  </details>
 
