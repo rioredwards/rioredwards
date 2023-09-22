@@ -21,7 +21,7 @@ I'm a full-stack developer with a passion for building elegant, responsive, and 
 
 <details>
  
- <summary style="display: flex; height: 34px; align-content: center; justify-content: center; margin-bottom: 16px;"> <img src="assets/Code_Quest/logo.png" alt="Code_Quest" style="width: 21.53px; height: 16px; margin: auto 0;"/>&nbsp;  <h3 style="text-align: center; cursor: pointer;"> Code Quest </h3>&nbsp;  <img src="assets/Code_Quest/logo.png" alt="Code_Quest" style="width: 21.53px; height: 16px; margin: auto 0;"/></summary>
+ <summary> &nbsp; Code Quest &nbsp;  <img src="assets/Code_Quest/logo.png" alt="Code_Quest" style="width: 21.53px; height: 16px;"/></summary>
 
 <center>
 
@@ -29,7 +29,7 @@ I'm a full-stack developer with a passion for building elegant, responsive, and 
 
 </center>
 
-Level-Up your code with Code Quest! This immersive web app generates pseudo-random coding challenges, giving you the opportunity to learn practical coding skills in a fun and engaging way.
+Level up your code with Code Quest! This immersive web app generates pseudo-random coding challenges, giving you the opportunity to learn practical coding skills in a fun and engaging way.
 
 [Try](https://j-scribe.vercel.app/) • [GitHub](https://github.com/rioredwards/j-scribe)
 
