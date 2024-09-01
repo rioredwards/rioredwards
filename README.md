@@ -102,3 +102,5 @@ A multiplayer, real-time drawing game inspired by the popular board game, Pictio
 
 [![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&color=DB4437&logoColor=EAEAEA&label=%20&style=for-the-badge)](mailto:rioredwards@gmail.com)
 [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0277B5&logoColor=EAEAEA&label=%20&style=for-the-badge)](https://www.linkedin.com/in/rio-edwards/)
+
+[![Github Snek](https://raw.githubusercontent.com/rioredwards/rioredwards/output/github-contribution-grid-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
