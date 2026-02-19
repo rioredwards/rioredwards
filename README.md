@@ -1,46 +1,65 @@
 [![Plants Banner](assets/Github_Banner_Plants.jpg)](https://www.linkedin.com/in/rio-edwards/)
 
-# 👋 Hello, my name is Rio
+# 👋 Hello, I'm Rio.
 
-I'm a full-stack developer with a passion for building elegant, responsive, and accessible web apps. I thrive in an environment where my creativity and technical skills are valued. I am always seeking new opportunities to learn and grow as a developer, whether that means working independently or as part of a team. I care deeply for humanity and strive to have a positive impact on those around me. <br>
+Product-minded full-stack engineer shipping production software used by real teams. I specialize in cloud-based web and mobile apps with a focus on reliability, maintainability, and security. Experienced in both startup-style builds and compliance-heavy client environments. <br>
 
 ---
 
 ## 👨‍💻 Recent Projects
 
-<details><summary> &nbsp; Code Quest &nbsp;  <img src="assets/Code_Quest/logo.png" alt="Code_Quest" style="width: 21.53px; height: 16px;"/></summary>
+<details><summary> &nbsp; DogTown &nbsp;  <img src="assets/DogTown/logo-256.png" alt="DogTown" style="width: 16px; height: 16px;"/></summary>
 
 <center>
 
-<img src="assets/Code_Quest/animation.gif" alt="preview" width="640"/>
+<img src="assets/DogTown/dog-town-screenshot.jpg" alt="DogTown Homepage" width="640"/>
 
 </center>
 
-Level up your code with Code Quest! This immersive web app generates pseudo-random coding challenges, giving you the opportunity to learn practical coding skills in a fun and engaging way.
+A self-hosted photo-sharing app running on my Raspberry Pi 5 with OAuth auth, AI image moderation, and a real-time monitoring dashboard. Features Docker orchestration, CI/CD via GitHub Actions, and NGINX caching.
 
-[Play](https://code-quest-app.netlify.app/) • [GitHub](https://github.com/rioredwards/code-quest)
+**Stack:** Next.js, React, TypeScript, Postgres, Docker, Python/FastAPI, Hono, Cloudflare Tunnel
+
+[Visit](https://dogtown.dog) • [GitHub](https://github.com/rioredwards/pi-site)
 
  </details>
 
- <details><summary>&nbsp;  j-scribe &nbsp;  <img src="assets/J-Scribe/logo.png" alt="J-Scribe" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
+<details><summary>&nbsp;  Ohm on the Range &nbsp;  <img src="assets/Ohm_On_The_Range/Ohm-logo-with-bg-1.svg" alt="Ohm" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
 
 <center>
 
-<img src="assets/J-Scribe/animation.gif" alt="preview" width="640"/>
+<img src="assets/Ohm_On_The_Range/ohm-carousel-screenshot.jpg" alt="Ohm on the Range Website" width="640"/>
 
 </center>
 
-Your All-in-One JavaScript Sandbox and Notebook. j-scribe provides users with a versatile platform to create, share, and modify code snippets in real-time.
+Festival website redesign that more than doubled traffic (3,000+ unique visitors first month) with near-perfect Lighthouse scores. Features a type-safe content pipeline generating UI, screen-reader content, and JSON-LD structured data from a single source.
 
-[Try](https://j-scribe.vercel.app/) • [GitHub](https://github.com/rioredwards/j-scribe)
+**Stack:** Next.js, TypeScript, Tailwind, shadcn/ui, Figma, Vercel
+
+[Visit](https://www.ohmontherange.net) • [Case Study](https://rioedwards.com/work/ohm-on-the-range)
 
  </details>
 
-<details><summary>&nbsp;  Swimmy Nudibranch &nbsp;  <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
+<details><summary>&nbsp;  Error Affirmations &nbsp;  <img src="assets/Error_Affirmations_Images/pink-02 2 (1).png" alt="Error Affirmations" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
 
 <center>
 
-<img src="assets/Swimmy_Nudibranch_Images/Swimmy_Nudibranch.gif" alt="JavaScript" width="640"/>
+<img src="assets/Error_Affirmations_Images/notificationbar.png" alt="Error Affirmations" width="640"/><br/>
+<img src="assets/Error_Affirmations_Images/Jest_Example_Default.png" alt="Jest Reporter" width="640"/>
+
+</center>
+
+A full-stack app that provides an API for delivering code-related affirmations to developers. The application includes 3 UI's: a VSCode Extension, a Jest Reporter and a website. 1,000+ downloads.
+
+[VS Code Extension](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations) • [Jest Reporter](https://www.npmjs.com/package/error-affirmations) • [Website](https://error-affirmations.netlify.app/) • [GitHub](https://github.com/orgs/VSCode-Empaths/repositories)
+
+  </details>
+
+<details><summary>&nbsp; Swimmy Nudibranch &nbsp;  <img src="assets/Swimmy_Nudibranch_Images/starfish-coin.png" alt="Swimmy Nudibranch" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
+
+<center>
+
+<img src="assets/Swimmy_Nudibranch_Images/Swimmy_Nudibranch.gif" alt="Swimmy Nudibranch" width="640"/>
 
 </center>
 
@@ -49,35 +68,6 @@ An aquatic spin on the (in)famous iPhone game: "Flappy Bird". I built this with 
 [Play](https://swimmy-nudibranch.netlify.app/) • [GitHub](https://github.com/Nervous-Nudibranchs/Swimmyy-Nudibranch)
 
  </details>
- 
-<details><summary>&nbsp;Error Affirmations&nbsp;  <img src="assets/Error_Affirmations_Images/pink-02 2 (1).png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
-
-<center>
-
-<img src="assets/Error_Affirmations_Images/notificationbar.png" alt="JavaScript" width="640"/><br/>
-<img src="assets/Error_Affirmations_Images/Jest_Example_Default.png" alt="JavaScript" width="640"/>
-
-</center>
-
-A full-stack app that provides an API for delivering code-related affirmations to developers. The application includes 3 UI's: a VSCode Extension, a Jest Reporter and a website.
-
-[VS Code Extension](https://marketplace.visualstudio.com/items?itemName=VSCodeEmpaths.erroraffirmations) • [Jest Reporter](https://www.npmjs.com/package/error-affirmations) • [Website](https://error-affirmations.netlify.app/) • [GitHub](https://github.com/orgs/VSCode-Empaths/repositories)
-
-  </details>
-
-<details><summary>&nbsp; Pictionary &nbsp;  <img src="assets/Pictionary_Images/favicon.png" alt="JavaScript" style="width: 16px; height: 16px; margin: auto 0;"/></summary>
- 
- <center>
-
-<img src="assets/Pictionary_Images/pictionary_demo.gif" alt="JavaScript" width="640"/>
-
- </center>
-
-A multiplayer, real-time drawing game inspired by the popular board game, Pictionary. Players can sign-up, create or join a game room, and earn points as a drawer or guesser in 1-minute rounds.
-
-[Play](https://moody-pictionary.netlify.app/) • [GitHub](https://github.com/themoodymarsupials/pictionary)
-
-</details>
  
  ---
 
