@@ -2,7 +2,12 @@
 
 # 👋 Hello, I'm Rio.
 
-Product-minded full-stack engineer shipping production software used by real teams. I specialize in cloud-based web and mobile apps with a focus on reliability, maintainability, and security. Experienced in both startup-style builds and compliance-heavy client environments. <br>
+Product-minded full-stack engineer shipping production software used by real teams. I specialize in cloud-based web and mobile apps with a focus on reliability, maintainability, and security. Experienced in both startup-style builds and compliance-heavy client environments.
+
+[![Website](https://img.shields.io/static/v1?message=Website&color=2D645D&label=%20&style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB3aWR0aD0iMjU2IiBoZWlnaHQ9IjI1NiIgdmlld0JveD0iMCAwIDI1NiAyNTYiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxyZWN0IHg9IjQuMDEzODkiIHk9IjQuMDEzODkiIHdpZHRoPSIyNDcuOTcyIiBoZWlnaHQ9IjI0Ny45NzIiIHJ4PSIxMjMuOTg2IiBmaWxsPSIjRUNERkNBIi8+CjxyZWN0IHg9IjQuMDEzODkiIHk9IjQuMDEzODkiIHdpZHRoPSIyNDcuOTcyIiBoZWlnaHQ9IjI0Ny45NzIiIHJ4PSIxMjMuOTg2IiBzdHJva2U9IiMyRDY0NUQiIHN0cm9rZS13aWR0aD0iOC4wMjc3OCIvPgo8cGF0aCBkPSJNNTcuNjQ5NCAyMDYuMjM1VjIwMi44NDFDNjUuMTE3NSAxOTkuODk5IDY4Ljk2NDcgMTgyLjQ3MyA2OC45NjQ3IDE1MC43OTFWMTAzLjI2N0M2OC45NjQ3IDcxLjU4MzggNjUuMTE3NSA1NC4xNTgzIDU3LjY0OTQgNTEuMjE2NFY0Ny44MjE4SDEyOS4zODhDMTcxLjAyOCA0Ny44MjE4IDE4OC4wMDEgNTkuMTM3IDE4OC4wMDEgODkuNDYxOUMxODguMDAxIDExMy45MDMgMTc3LjEzOCAxMjQuNTM5IDE0Ni4xMzUgMTI3LjQ4MVYxMjkuMDY1QzE3NS43ODEgMTMxLjEwMiAxODMuOTI4IDEzOS40NzUgMTg5LjEzMyAxNjUuMjc0QzE5My40MzIgMTg3LjIyNiAxOTkuMDkgMTk5Ljg5OSAyMDUuNjUzIDIwMi44NDFWMjA2LjIzNUgxNzUuNzgxQzE1NC41MDggMjA2LjIzNSAxNDMuNjQ1IDIwMi4xNjIgMTQxLjYwOSAxODkuMjYyTDEzNi42MyAxNTYuNjc1QzEzNC4xNDEgMTQwLjgzMyAxMjkuMTYyIDEzMi4wMDcgMTE4Ljc1MiAxMzAuODc2VjE1MC43OTFDMTE4Ljc1MiAxODIuNDczIDEyMi41OTkgMTk5Ljg5OSAxMzAuMDY3IDIwMi44NDFWMjA2LjIzNUg1Ny42NDk0Wk0xMjIuODI1IDEyNC45OTJDMTMzLjIzNSAxMjQuOTkyIDEzOS41NzIgMTA5LjE1IDEzOS41NzIgODcuODc3OEMxMzkuNTcyIDY4LjE4OTIgMTM0LjE0MSA1NC42MTA5IDEyNy4xMjUgNTQuNjEwOUMxMjEuNDY3IDU0LjYxMDkgMTE4Ljc1MiA2Mi43NTc5IDExOC43NTIgMTAzLjI2N1YxMTUuNzEzQzExOC43NTIgMTIzLjE4MSAxMTkuMjA0IDEyNC45OTIgMTIyLjgyNSAxMjQuOTkyWiIgZmlsbD0iIzJENjQ1RCIvPgo8L3N2Zz4K)](https://rioedwards.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0277B5&logoColor=EAEAEA&label=%20&style=for-the-badge)](https://www.linkedin.com/in/rio-edwards/)
+[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&color=DB4437&logoColor=EAEAEA&label=%20&style=for-the-badge)](mailto:rioredwards@gmail.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0277B5&logoColor=EAEAEA&label=%20&style=for-the-badge)](https://www.linkedin.com/in/rio-edwards/)
 
 ---
 
@@ -12,7 +17,7 @@ Product-minded full-stack engineer shipping production software used by real tea
 
 <center>
 
-<img src="assets/DogTown/dog-town-screenshot.jpg" alt="DogTown Homepage" width="640"/>
+<img src="assets/DogTown/dogbot-demo.gif" alt="DogBot AI moderation demo" width="640"/>
 
 </center>
 
@@ -28,7 +33,7 @@ A self-hosted photo-sharing app running on my Raspberry Pi 5 with OAuth auth, AI
 
 <center>
 
-<img src="assets/Ohm_On_The_Range/ohm-carousel-screenshot.jpg" alt="Ohm on the Range Website" width="640"/>
+<img src="assets/Ohm_On_The_Range/ohm-flip-cards.gif" alt="Ohm on the Range 3D flip cards" width="640"/>
 
 </center>
 
@@ -73,25 +78,45 @@ An aquatic spin on the (in)famous iPhone game: "Flappy Bird". I built this with 
 
 ## 🛠️ My Toolkit
 
-|                                     Languages                                      |                           Libraries & Frameworks                           |                                                              Testing                                                               |                                   Databases                                    |                                                       Cloud                                                        |                                Other Tools                                |
-| :--------------------------------------------------------------------------------: | :------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------: |
-|   [![JavaScript](assets/Logos/JavaScript_Logo.png)](https://www.javascript.com/)   |      [![React.js](assets/Logos/React_Logo.png)](https://reactjs.org/)      |                                     [![Jest](assets/Logos/Jest_Logo.png)](https://jestjs.io/)                                      | [![PostgreSQL](assets/Logos/PostgreSQL_Logo.png)](https://www.postgresql.org/) | [![AWS](assets/Logos/AWS_Logo.png)](https://www.credly.com/badges/74104899-afff-463a-9625-546a88635718/public_url) | [![VSCode](assets/Logos/vscode_Logo.png)](https://code.visualstudio.com/) |
-| [![Typescript](assets/Logos/Typescript_Logo.png)](https://www.typescriptlang.org/) |      [![Node.js](assets/Logos/nodejs_Logo.png)](https://nodejs.org/)       | [![react-testing-library](assets/Logos/React-Testing_Lib_Logo.png)](https://testing-library.com/docs/react-testing-library/intro/) |     [![MongoDB](assets/Logos/MongoDB_Logo.png)](https://www.mongodb.com/)      |                         [![Heroku](assets/Logos/Heroku_Logo.png)](https://www.heroku.com/)                         |       [![Vim](assets/Logos/vim_on_fire.gif)](https://www.vim.org/)        |
-|         [![Python](assets/Logos/Python_Logo.png)](https://www.python.org/)         |   [![Express.js](assets/Logos/express_Logo.png)](https://expressjs.com/)   |                                                                                                                                    |      [![Supabase](assets/Logos/Supabase_Logo.png)](https://supabase.io/)       |                       [![Netlify](assets/Logos/Netlify-logo.png)](https://www.netlify.com/)                        |         [![Git](assets/Logos/Git_Logo.png)](https://git-scm.com/)         |
-|         [![HTML5](assets/Logos/HTML5_Logo.png)](https://www.w3.org/html/)          |      [![Next.js](assets/Logos/nextjs_Logo.webp)](https://nextjs.org/)      |                                                                                                                                    |                                                                                |                           [![Vercel](assets/Logos/Vercel_Logo.png)](https://vercel.com/)                           |   [![Postman](assets/Logos/Postman_Logo.png)](https://www.postman.com/)   |
-|        [![CSS3](assets/Logos/CSS_Logo.png)](https://www.w3.org/Style/CSS/)         |  [![Tailwind](assets/Logos/Tailwind_Logo.png)](https://tailwindcss.com/)   |                                                                                                                                    |                                                                                |                                                                                                                    |      [![Figma](assets/Logos/Figma_Logo.png)](https://www.figma.com/)      |
-|    [![C++](assets/Logos/C++_Logo.png)](https://www.iso.org/standard/68564.html)    | [![Bootstrap](assets/Logos/Bootstrap_Logo.png)](https://getbootstrap.com/) |                                                                                                                                    |                                                                                |                                                                                                                    |     [![Notion](assets/Logos/Notion_Logo.png)](https://www.notion.so/)     |
-|       [![SQL](assets/Logos/SQL_Logo.png)](https://en.wikipedia.org/wiki/SQL)       |                                                                            |                                                                                                                                    |                                                                                |                                                                                                                    |     [![Notion](assets/Logos/Webflow_Logo.png)](https://webflow.com/)      |
+**Languages**
 
-<center>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-# Contact Me
+**Frameworks & Libraries**
 
-`Open for collaborations! Send me your ideas 📩`
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white)
 
-</center>
+**Databases & Backend**
 
-[![Email](https://img.shields.io/static/v1?message=Email&logo=gmail&color=DB4437&logoColor=EAEAEA&label=%20&style=for-the-badge)](mailto:rioredwards@gmail.com)
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0277B5&logoColor=EAEAEA&label=%20&style=for-the-badge)](https://www.linkedin.com/in/rio-edwards/)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/-Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Vim](https://img.shields.io/badge/-Vim-019733?style=flat-square&logo=vim&logoColor=white)
 
 [![Github Snek](https://raw.githubusercontent.com/rioredwards/rioredwards/output/github-contribution-grid-snake-dark.svg)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
